@@ -8,3 +8,9 @@ input.txt {
 	border: none;
 	border-bottom: 1px solid black;
 }
+div {
+	height: 100vh;
+	width: 100vw;
+	border: solid;
+	padding:10px;
+}
